@@ -9,7 +9,7 @@ All the images are in the following directory:
 iGraphic1.2VS10/iGraphic1.2VS10
 
 For better visualization of the game I have uploaded a video, which you can find in DX_BALL.webm file.
-There is also a zip file of the snaps of two levels.
+There is also 'Snapshot' folder in which I have uploaded the snaps of two levels of the game.
 
 The features of this game are:
 
