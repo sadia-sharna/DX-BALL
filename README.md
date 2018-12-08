@@ -26,7 +26,7 @@ The features of this game are:
 6. By taking 'Shooting' power-up, you will get the chance to brak the bricks by shooting.
 
 
-There are so many developments need to do with this project. This is a mini DX-Ball project.
+More developments are needed in this project. 
 
 Thank you. 
 
